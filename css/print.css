@@ -1,0 +1,128 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+body {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  margin-top: 40px;
+}
+.wrap {
+  background-color: transparent;
+  border-radius: 12px;
+  box-shadow: none;
+  width: 250px;
+  height: 400px;
+  background-image: url("../img/front.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 90%;
+  margin: 0 auto;
+  position: relative;
+}
+.profile_img {
+  width: 95%;
+  padding: 3px 6px;
+  position: absolute;
+  top: 86px;
+  left: 0px;
+  text-align: center;
+}
+.profile {
+  width: 90px;
+  height: auto;
+  border-radius: 50%;
+  /* position: absolute;
+  top: 80px; */
+}
+.name {
+  width: 95%;
+  padding: 3px 6px;
+  word-spacing: 3px;
+  font-size: 14px;
+  text-align: center;
+  font-weight: 600;
+  color: #333;
+  position: absolute;
+  top: 195px;
+  left: 0px;
+}
+.trainee {
+  text-decoration: underline;
+  width: 95%;
+  padding: 3px 6px;
+  word-spacing: 3px;
+  font-size: 12px;
+  text-align: center;
+  font-weight: 600;
+  color: #333;
+  position: absolute;
+  top: 215px;
+  left: 0px;
+}
+.continer {
+  display: flex;
+  justify-content: space-around;
+}
+.box1 {
+  width: 95%;
+  padding: 3px 6px;
+  word-spacing: 3px;
+  font-size: 11px;
+  text-align: center;
+
+  color: #333;
+  position: absolute;
+  top: 235px;
+  left: 0px;
+}
+.box2 {
+  width: 95%;
+  padding: 3px 6px;
+  word-spacing: 3px;
+  font-size: 11px;
+  text-align: center;
+
+  color: #333;
+  position: absolute;
+  top: 250px;
+  left: 0px;
+}
+.box3 {
+  width: 95%;
+  padding: 3px 6px;
+  word-spacing: 3px;
+  font-size: 11px;
+  text-align: center;
+
+  color: #333;
+  position: absolute;
+  top: 265px;
+  left: 0px;
+}
+.box4 {
+  width: 95%;
+  padding: 3px 6px;
+  word-spacing: 3px;
+  font-size: 11px;
+  text-align: center;
+
+  color: #333;
+  position: absolute;
+  top: 280px;
+  left: 0px;
+}
+.box5 {
+  width: 95%;
+  padding: 3px 6px;
+  word-spacing: 3px;
+  font-size: 11px;
+  text-align: center;
+
+  color: #333;
+  position: absolute;
+  top: 295px;
+  left: 0px;
+}
